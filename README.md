@@ -1,4 +1,4 @@
-# House_Prices
+# House-Prices
 
 This repo is created for the Kaggle prediction competition - House Prices: https://www.kaggle.com/c/house-prices-advanced-regression-techniques.
 
